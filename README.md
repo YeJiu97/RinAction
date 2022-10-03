@@ -1,6 +1,9 @@
 # RinAction
 R语言实战（第二版）
 
+![image](https://user-images.githubusercontent.com/94936537/193542278-14abc364-3638-47f7-819c-35519aa36b7d.png)
+
+
 # 目录
 
 如下所示：
